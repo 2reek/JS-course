@@ -1,3 +1,3 @@
-console.log("stated!!");
-console.log("stated!!");
+import "./slider";
+
 console.log("stated!!");
